@@ -1,0 +1,7 @@
+compilation-
+javac -cp /home/USSER_NAME/Desktop/java/008packages/just_another_folder/just_another_another_folder/ -d . demo.java
+
+(in this case USSER_NAME is utkarsh)
+
+execution-
+java demo
