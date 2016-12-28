@@ -17,16 +17,16 @@ class Except1
   {
   System.out.println("element does not exist\n"+e);
   }
-  
+ 
  try
  {
  System.out.print(result=p/q);
  }
  catch(ArithmeticException e)
  {
- System.out.println("divident cannot be 0\n"+e);
+ System.out.println("divisor cannot be 0\n"+e);
  }
-  
+
   finally
   {
    for(i=0;i<5;i++)
