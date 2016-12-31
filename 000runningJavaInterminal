@@ -1,0 +1,7 @@
+(save file as Bla.java)
+
+1 javac Bla.java
+
+(Bla.class file will be generated in folder)
+
+2 java Bla 
